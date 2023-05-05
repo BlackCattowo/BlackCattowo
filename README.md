@@ -7,7 +7,6 @@
 - 🌱🇺🇲 I’m currently learning Python and Delegua. 
 - 🌱🇧🇷 Eu estou atualmente aprendendo Python e Delegua.
 
-
 - 💞️🇺🇲 I’m looking to collaborate on newbie friendly activities that may help me with what I am currently learning.
 - 💞️🇧🇷 Estou procurando colaborar em atividades amigáveis para iniciantes que possam me ajudar com o que estou aprendendo atualmente.
 
