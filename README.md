@@ -17,6 +17,9 @@
 https://www.linkedin.com/in/blackcattowo/
 ---
 
+<br/>
+
+
 # Competências:
 ### 🐍Python
 ### 🐴Delegua
