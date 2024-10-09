@@ -33,10 +33,6 @@ https://www.linkedin.com/in/blackcattowo/
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ![a commid a day](https://github.com/user-attachments/assets/847a5624-8523-4b3e-984f-4e03862b9fb7)
 
